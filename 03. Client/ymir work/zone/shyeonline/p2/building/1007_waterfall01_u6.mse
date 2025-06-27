@@ -1,0 +1,193 @@
+BoundingSphereRadius   0.000000
+BoundingSpherePosition 0.000000 0.000000 0.000000
+
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 0.000000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"1007_waterfall01_u2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.030000
+    
+    MeshElementCount           	1
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	0.020000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.349020 0.400000 0.431373 1.000000
+        List TimeEventAlpha
+        {
+            0.046667 0.646018
+            0.166667 0.743363
+            0.220000 0.911504
+            0.620000 0.911504
+            0.633333 0.663717
+            0.793333 0.663717
+        }
+    }
+}
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 14.007000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"1007_waterfall01_u2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.038000
+    
+    MeshElementCount           	1
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	0.100000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.282353 0.282353 0.282353 1.000000
+        List TimeEventAlpha
+        {
+            0.046667 0.646018
+            0.166667 0.743363
+            0.220000 0.911504
+            0.620000 0.911504
+            0.633333 0.663717
+            0.793333 0.663717
+        }
+    }
+}
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 14.007000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"1007_waterfall01_u2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.020000
+    
+    MeshElementCount           	1
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	0.100000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.266667 0.262745 0.262745 1.000000
+        List TimeEventAlpha
+        {
+            0.046667 0.646018
+            0.166667 0.743363
+            0.220000 0.911504
+            0.620000 0.911504
+            0.633333 0.663717
+            0.793333 0.663717
+        }
+    }
+}
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" -7.919000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"1007_waterfall01_u2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.020000
+    
+    MeshElementCount           	1
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	0.100000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.266667 0.262745 0.262745 1.000000
+        List TimeEventAlpha
+        {
+            0.046667 0.646018
+            0.166667 0.743363
+            0.220000 0.911504
+            0.620000 0.911504
+            0.633333 0.663717
+            0.793333 0.663717
+        }
+    }
+}
+Group Mesh
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" -15.655000 0.000000 0.000000
+    }
+    
+    MeshFileName               	"1007_waterfall01_u2.mde"
+    MeshAnimationLoopEnable    	1
+    MeshAnimationLoopCount     	0
+    MeshAnimationFrameDelay    	0.038000
+    
+    MeshElementCount           	1
+    Group MeshElement00
+    {
+        BillboardType              	0
+        BlendingEnable             	1
+        BlendingSrcType            	3
+        BlendingDestType           	2
+        
+        TextureAnimationLoopEnable 	1
+        TextureAnimationFrameDelay 	0.100000
+        TextureAnimationStartFrame 	0
+        
+        ColorOperationType         	4
+        ColorFactor                	0.282353 0.282353 0.282353 1.000000
+        List TimeEventAlpha
+        {
+            0.046667 0.646018
+            0.166667 0.743363
+            0.220000 0.911504
+            0.620000 0.911504
+            0.633333 0.663717
+            0.793333 0.663717
+        }
+    }
+}

@@ -1,0 +1,2 @@
+TOURNAMENT_ITEM_BOX_REWARD	This box was gived for each player from team what win on tournament. | Here is a lot a prize's, open and you will discover a lot a things.
+TOURNAMENT_ITEM_HEART	This item give chance to increase +2 lifes in tournament, for 10 times, so that means you can participate for 10 times with 5 lifes, because 3 is default for all players.

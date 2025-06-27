@@ -1,0 +1,1 @@
+metin2_map_colosseum	5000000	5000000	1	1

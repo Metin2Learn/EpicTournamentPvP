@@ -1,0 +1,11 @@
+tournament.delete_register
+tournament.info_timer
+tournament.is_running
+tournament.observer
+tournament.warp
+tournament.get_is_register
+tournament.get_flag_name
+tournament.is_map
+tournament.participants
+tournament.register
+tournament.info_current_timer

@@ -1,0 +1,2 @@
+84201	Box Reward
+84202	Increase Life

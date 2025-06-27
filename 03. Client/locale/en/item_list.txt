@@ -1,0 +1,2 @@
+84201	ETC	icon/item/tournament_box.tga
+84202	ETC	icon/item/tournament_extra_live.tga

@@ -12,3 +12,14 @@ CREATE TABLE `tournament_ranking` (
   `total_points` int(11) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+
+DROP TABLE IF EXISTS `tournament_ranking`;
+CREATE TABLE `tournament_ranking` (
+                                      `id` INT(11) NOT NULL AUTO_INCREMENT,
+                                      `pid` INT(11) NOT NULL,
+                                      `name` VARCHAR(12) NOT NULL,
+                                      `total_points` INT(11) NOT NULL,
+                                      PRIMARY KEY (`id`)
+) ENGINE=MYISAM DEFAULT CHARSET=utf8mb4;
